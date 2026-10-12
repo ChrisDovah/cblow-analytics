@@ -1,0 +1,20 @@
+# --- ARQUIVOS DE CHAVES E SEGREDOS ---
+# Evita expor sua API Key da Riot
+Python/00_test_api_riot.py
+testes/00_test_api_riot.py
+00_test_api_riot.py
+
+# --- ARQUIVOS DE TESTE E RASCUNHO ---
+01_test_api_cblow.py
+02_test_api_cblow_2.py
+testes/
+SQL/
+
+# --- DADOS TEMPORÁRIOS E DUMP JSON ---
+*.json
+
+# --- CONFIGURAÇÕES E AMBIENTE VIRTUAL ---
+.env
+__pycache__/
+.venv/
+.vscode/
