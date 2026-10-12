@@ -25,7 +25,7 @@ jobs:
           pip install requests
 
       - name: Executar script de coleta
-        run: python coleta_cblow.py
+        run: python Python/coleta_cblow.py
 
       - name: Salvar alterações no banco de dados
         run: |
